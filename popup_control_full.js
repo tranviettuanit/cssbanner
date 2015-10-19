@@ -114,7 +114,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://truxangdau.com/san-pham.html' target='_blank'><img src='http://3.bp.blogspot.com/-CmvtrWnCHSw/ViR6FNx5gOI/AAAAAAAABG0/ag3D_KE-IxY/s1600/nhung-viec-nen-lam-ngay-via-than-tai-mung-10-tet.jpg width='250px'/>Thiết Bị xăng Dầu Giá Rẻ</a>.Chất lượng tốt mẫu mã đa dạng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://truxangdau.com/san-pham.html' target='_blank'><img src='http://3.bp.blogspot.com/-CmvtrWnCHSw/ViR6FNx5gOI/AAAAAAAABG0/ag3D_KE-IxY/s1600/nhung-viec-nen-lam-ngay-via-than-tai-mung-10-tet.jpg width='200px'/>Thiết Bị xăng Dầu Giá Rẻ</a>.Chất lượng tốt mẫu mã đa dạng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
